@@ -1,0 +1,14 @@
+body {
+    font-size: 15pt;
+    background-image: url('Bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+  }
+  
+  img {
+    height: 60%;
+    width: 70%;
+    margin: 15%;
+    margin-top: 50%;
+  }
