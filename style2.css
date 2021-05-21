@@ -1,0 +1,56 @@
+body {
+    font-size: 15pt;
+    background-image: url('resources/Bg 2.2.png'),url('resources/Bg.png');
+    background-repeat: no-repeat;
+    
+}
+p.content{
+  position:absolute;
+  top:50%;
+  margin-left: 15px;
+}
+a.content{
+  text-decoration: none;
+  color:black;
+}
+img.content{
+  vertical-align: middle;
+  position:relative;
+  margin:3px;
+  left:0;
+  
+}
+span.content{
+  vertical-align: middle;
+  position:relative;
+  top:5px;
+  left:2%;
+  
+}
+div.content{
+  position:absolute;
+  top:56%;
+}
+button{
+  background-image: url('resources/button_secndry.png');
+  background-size: 100% 100%;
+  font-size: 20px;
+  width:90%;
+  border-radius: 5px;
+  padding-bottom: 3px;
+  margin:8px;
+  margin-left:15px;
+  vertical-align: middle;
+  text-align: left;
+}
+div.foot{
+  font-size: 12px;
+  position:absolute;
+  bottom:10px;
+  left:50px;
+  right:50px;
+}
+a.foot{
+  text-decoration-color: black;
+  color:black;
+}
